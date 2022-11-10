@@ -1,0 +1,1 @@
+web: guicorn foma2.wsgi --log-file -
